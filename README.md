@@ -169,13 +169,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-[Your Name]
+[Ashish Kumar]
 
-## 📞 Contact
-
-- Email: [your-email@example.com]
-- GitHub: [your-github-username]
-
----
-
-**Note**: This is an academic project for educational purposes. 
