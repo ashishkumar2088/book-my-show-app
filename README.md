@@ -151,10 +151,6 @@ JWT_SECRET=your-secret-key-here
 STRIPE_SECRET_KEY=sk_test_your_stripe_secret_key_here
 ```
 
-## 📱 Screenshots
-
-[Add screenshots of your application here]
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -169,5 +165,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-[Ashish Kumar]
+Ashish Kumar
 
